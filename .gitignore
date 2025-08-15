@@ -1,0 +1,16 @@
+config.ini
+
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+env/
+
+/data/
+*.png
+*.log
+
+.idea/
+.vscode/
+.DS_Store

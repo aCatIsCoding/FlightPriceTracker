@@ -1,0 +1,7 @@
+# 适用于Python 3.11.4，其他版本请自行检查冲突
+selenium==4.18.1
+webdriver-manager==4.0.1
+pandas==2.2.1
+schedule==1.2.1
+matplotlib==3.8.3
+plyer==2.1.0
